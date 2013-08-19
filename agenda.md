@@ -28,16 +28,26 @@
         
  9:30AM Find a pair - find someone with nothing in common with you
  
- 9:45AM Exercise: Find the Tests (or something related) with the new pairs
+ 9:45AM Pairku
+ 
+ ???AM Exercise: Find the Tests (or something related) with the new pairs
         Designed to explore contributions by diverse skillsets. Need to
         figure out a way to adapt this exercise to both the skills in the
         room and 
  
 10:15AM Break
 
-10:30AM Second Exercise: Meeting from Hell variant
+10:30AM Exercise: Building Agreement
 
-11:30AM Wrapup
+11:30AM Introducing "Deliverables: a simulation"
+
+LUNCH
+
+ 1:00PM "Deliverables: a simulation" 
+        Teams try to build and market a game
+ 
+ 4:00PM Debrief
+ 
 ```
 
 # Learning Objectives
