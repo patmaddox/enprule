@@ -7,6 +7,7 @@
 
 See also: http://imgur.com/B5TgS
 
+Everyone brings a unique collection of skills and experiences and values and concerns to the table. 
 ---
 
 The term "non-coder" is terrible. It places the emphasis on what someone can't do 
@@ -31,6 +32,8 @@ But how does that map to pairs with wildly different skills and experiences?
 - Ping Pong: a variation on ping-ponging on tests substituting questions for assertions about the code. E.g. one asks a question: "How will we make sure X is covered?" and the other creates the content that covers X. Particularly useful when producing non-executable content such as documentation.
 
 - Ball and Board still applies -- but may feel less like a mechanism to create fluidity and more like a three legged race where one partner is tied to another who has no idea what they're doing.
+
+- Mobbing. Kinda like pairing, but with everyone.
 
 # Skills/Attributes You Need
 
